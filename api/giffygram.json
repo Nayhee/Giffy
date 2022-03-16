@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "name": "Nathan Traczewski",
+      "email": "nathantraczewski@gmail.com",
+      "id": 1
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "imageURL": "https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif",
+      "userId": 1,
+      "description": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
+      "timestamp": "1561695022812",
+      "title": "Enhanced global utilisation"
+    },
+    {
+      "imageURL": "https://media.giphy.com/media/eUDhD5XFBw0r6/giphy.gif",
+      "userId": 1,
+      "description": "This man once pulled his own tooth out of his mouth in front of coworker just to demonstrate he's capable of handling immense pain.",
+      "timestamp": "1561695021453",
+      "title": "Laugh it off with Nick Oberrman",
+      "id": 2
+    },
+    {
+      "imageURL": "https://media.giphy.com/media/26tP3M3i03hoIYL6M/giphy.gif",
+      "userId": 1,
+      "description": "This young gentleman knows exactly how to have fun. From bone crushing body slams to huge cannon balls, this kid has all the skills.",
+      "timestamp": "1561695021488",
+      "title": "Baby Body Slam",
+      "id": 3
+    }
+  ],
+  "messages": [],
+  "likes": [
+    {
+      "id": 1,
+      "userId": 1,
+      "postId": 2
+    }
+  ]
+}
